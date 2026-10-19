@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "miro": {
+      "enabled": true
+    },
+    "sentry": {
+      "enabled": true
+    },
+    "shaders": {
+      "enabled": true
+    },
+    "granola": {
+      "enabled": true
+    }
+  }
+}
